@@ -10,4 +10,10 @@
         android:layout_height="wrap_content"
         android:text="Hello World!" />
 
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/ic_launcher"
+        tools:ignore="ContentDescription"/>
+
 </LinearLayout>
